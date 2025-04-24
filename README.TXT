@@ -20,4 +20,3 @@ does not require the CLS command and
 does not have the flickering issue as
 described above.
 
- 
